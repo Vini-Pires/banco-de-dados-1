@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=3.2
+Name=brModelo
+Exec=java -jar ~/brModelo/brModelo.jar
+Icon=~/brModelo/brModelo.png
+Type=Application
+Comment=The software for MER
+Path=~/brModelo
+Terminal=false
+StartupNotify=True
+Categories=Development;Education;
